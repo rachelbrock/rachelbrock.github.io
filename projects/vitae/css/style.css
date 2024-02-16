@@ -1,0 +1,14 @@
+header {
+    color: #add8e6;
+    font family: Arial, sans-serif;
+    font size: 18px;
+    text-align: center;
+    font-weight: 700;
+    background-color: #aa336a;
+    padding: 2em 4em 6em 8em;
+}
+
+.objective {
+    text-align: center;
+    color: #aa336a
+}
