@@ -1,0 +1,28 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    background: #CBC3E3;
+    color: #00008B
+}
+
+img {
+    margin: 2%;
+    max-width: 200%;
+    height: auto;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 350%;
+}
+
+h2 {
+    font-style: italic;
+}
+
+a {
+    padding: 3%;
+}
