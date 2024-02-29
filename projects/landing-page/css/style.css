@@ -2,13 +2,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
     background: #CBC3E3;
-    color: #00008B
-}
-
-img {
-    margin: 2%;
-    max-width: 200%;
-    height: auto;
+    color: #00008B;
 }
 
 header {
