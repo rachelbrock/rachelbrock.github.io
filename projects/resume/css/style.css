@@ -3,7 +3,6 @@ body {
 }
 
 img {
-    align-items: last baseline;
     padding: 60px
 }
 
@@ -21,4 +20,8 @@ button {
 a {
     font-size: 35px;
     color: #8F53A3
+}
+
+.clips {
+    background-color: aliceblue;
 }
