@@ -1,29 +1,41 @@
 body {
-    background-color: #CBC3E3
+    background-color: #CBC3E3;
+    font-size: 16px;
 }
 
-img {
-    height: 600px;
-    width: 490px;
-    padding: 60px
+section {
+    padding: 2em 0;
 }
 
 h1 {
     color: #8F53A3;
     padding-top: 30px;
-    font-size: 55px;
+    font-size: 2.75em;
 
 }
 
-button {
-    color: #8F53A3;
+h2 {
+    font-size: 1.5em;
 }
+
 
 a {
-    font-size: 35px;
-    color: #8F53A3
+    font-size: 1.75em;
+    color: #8F53A3;
 }
 
 .clips {
     background-color: aliceblue;
+}
+
+span {
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+}
+
+img {
+    padding: 0 0 1em 0;
 }
