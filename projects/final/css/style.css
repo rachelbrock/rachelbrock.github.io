@@ -1,0 +1,49 @@
+header {
+    background-color: black;
+    padding: 10% 5%;
+    min-height: 100vh;
+    text-shadow: 5px 5px 10px #ff0050;
+    color: white;
+    text-align: center;
+
+}
+
+h1 {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 8em;
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+    color: white;
+
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+h3 {
+    font-size: 3em;
+    text-align: center;
+}
+
+a {
+    color: #00f2ea;
+}
+
+.shop {
+    background-color: #ff0050;
+}
+
+.tips {
+    background-color: #ff0050;
+}
